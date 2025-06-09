@@ -2,6 +2,10 @@
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.0.1.
 
+EasyTrack is a simple, enterprise-level task management web application built with Angular. It allows users to manage tasks by selecting a user and viewing, adding, or completing their assigned tasks in a clean, modern interface.
+
+EasyTrack is designed to streamline task management for teams or individuals. The application features a user selection panel, where each user is represented with an avatar and name. Upon selecting a user, their associated tasks are displayed, including details such as title, summary, and due date. Users can add new tasks or mark existing ones as complete. The application leverages Angular’s component-based architecture, local storage for persistence, and a responsive UI styled with CSS. EasyTrack is ideal for small teams or personal productivity, providing an intuitive and frictionless experience for tracking and managing tasks.
+
 ## Development server
 
 To start a local development server, run:
